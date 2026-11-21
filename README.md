@@ -1,5 +1,7 @@
 # Neon Beat Dash - Production Game
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A hyper-casual, hyper-addictive mobile and web rhythm runner game built with TypeScript, Phaser 3, and Capacitor.
 
 ## 🎮 Game Features
